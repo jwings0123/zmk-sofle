@@ -1509,7 +1509,7 @@
 
             sensor-bindings =
                 <&inc_dec_kp C_VOL_UP C_VOLUME_DOWN>,
-                <&inc_dec_kp PAGE_DOWN PAGE_UP>;
+                <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         raise_layer {
